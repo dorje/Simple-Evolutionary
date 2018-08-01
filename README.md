@@ -1,6 +1,7 @@
 # Simple-Evolutionary
 
 A very simple example of optimizing a three-unknowns equation:
+<img src='equation.png' />
 
 a/(b+c) +  b/(a+c) + c/(a+b) = 4
 
